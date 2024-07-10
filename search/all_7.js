@@ -1,27 +1,7 @@
 var searchData=
 [
-  ['iboneyardview_0',['IBoneyardView',['../interface_g_b_templates_1_1_domino_1_1_i_boneyard_view.html',1,'GBTemplates::Domino']]],
-  ['icameracontroller_1',['ICameraController',['../interface_g_b_templates_1_1_domino_1_1_i_camera_controller.html',1,'GBTemplates::Domino']]],
-  ['idominocontroller_2',['IDominoController',['../interface_g_b_templates_1_1_domino_1_1_i_domino_controller.html',1,'GBTemplates::Domino']]],
-  ['idominotileview_3',['IDominoTileView',['../interface_g_b_templates_1_1_domino_1_1_i_domino_tile_view.html',1,'GBTemplates::Domino']]],
-  ['iiacontroller_4',['IIAController',['../interface_g_b_templates_1_1_domino_1_1_i_i_a_controller.html',1,'GBTemplates::Domino']]],
-  ['imovementassistant_5',['IMovementAssistant',['../interface_g_b_templates_1_1_domino_1_1_i_movement_assistant.html',1,'GBTemplates::Domino']]],
-  ['init_6',['Init',['../class_g_b_templates_1_1_domino_1_1_domino_tile_world_position_helper.html#ad7397b7e5ff4e0693ccc23d5cb7f2b61',1,'GBTemplates::Domino::DominoTileWorldPositionHelper']]],
-  ['initcollections_7',['InitCollections',['../class_g_b_templates_1_1_domino_1_1_tiles_colecctions.html#a1da9acfef7123ba736fa3d8612ba387f',1,'GBTemplates::Domino::TilesColecctions']]],
-  ['iplayer2viewinfo_8',['IPlayer2ViewInfo',['../interface_g_b_templates_1_1_domino_1_1_i_player2_view_info.html',1,'GBTemplates::Domino']]],
-  ['ipopup_9',['IPopup',['../interface_i_popup.html',1,'']]],
-  ['ipopuphandler_10',['IPopupHandler',['../interface_i_popup_handler.html',1,'']]],
-  ['ipreviewtileview_11',['IPreviewTileView',['../interface_g_b_templates_1_1_domino_1_1_i_preview_tile_view.html',1,'GBTemplates::Domino']]],
-  ['irepositiontile_12',['IRepositionTile',['../interface_g_b_templates_1_1_domino_1_1_i_reposition_tile.html',1,'GBTemplates::Domino']]],
-  ['iscoreview_13',['IScoreView',['../interface_g_b_templates_1_1_domino_1_1_i_score_view.html',1,'GBTemplates::Domino']]],
-  ['isoundcontroller_14',['ISoundController',['../interface_g_b_templates_1_1_domino_1_1_i_sound_controller.html',1,'GBTemplates::Domino']]],
-  ['istimerpaused_15',['IsTimerPaused',['../class_g_b_templates_1_1_domino_1_1_timer_controller.html#a5756c83768389f72cc13818a7375beec',1,'GBTemplates::Domino::TimerController']]],
-  ['itilecollection_16',['ITileCollection',['../interface_g_b_templates_1_1_domino_1_1_i_tile_collection.html',1,'GBTemplates::Domino']]],
-  ['itilerootworldhanlder_17',['ITileRootWorldHanlder',['../interface_g_b_templates_1_1_domino_1_1_i_tile_root_world_hanlder.html',1,'GBTemplates::Domino']]],
-  ['itileshadowui_18',['ITileShadowUI',['../class_g_b_templates_1_1_domino_1_1_i_tile_shadow_u_i.html',1,'GBTemplates::Domino']]],
-  ['itileshadowworld_19',['ITileShadowWorld',['../class_g_b_templates_1_1_domino_1_1_i_tile_shadow_world.html',1,'GBTemplates::Domino']]],
-  ['itilesuicollectionsview_20',['ITilesUICollectionsView',['../interface_g_b_templates_1_1_domino_1_1_i_tiles_u_i_collections_view.html',1,'GBTemplates::Domino']]],
-  ['itimer_21',['ITimer',['../interface_g_b_templates_1_1_domino_1_1_i_timer.html',1,'GBTemplates::Domino']]],
-  ['itimwerview_22',['ITimwerView',['../interface_g_b_templates_1_1_domino_1_1_i_timwer_view.html',1,'GBTemplates::Domino']]],
-  ['iturncontrollerview_23',['ITurnControllerView',['../interface_g_b_templates_1_1_domino_1_1_i_turn_controller_view.html',1,'GBTemplates::Domino']]]
+  ['iiacontroller_0',['IIAController',['../interface_g_b_templates_1_1_domino_1_1_controller_1_1_i_i_a_controller.html',1,'GBTemplates::Domino::Controller']]],
+  ['init_1',['Init',['../class_g_b_templates_1_1_domino_1_1_controller_1_1_domino_tile_world_position_helper.html#a3aa2d8bdbc5653877c947d9ec02eb861',1,'GBTemplates::Domino::Controller::DominoTileWorldPositionHelper']]],
+  ['initcollections_2',['InitCollections',['../class_g_b_templates_1_1_domino_1_1_controller_1_1_tiles_colecctions.html#a7b9e3b35e49815a497efdfff0bfe8170',1,'GBTemplates::Domino::Controller::TilesColecctions']]],
+  ['istimerpaused_3',['IsTimerPaused',['../class_g_b_templates_1_1_domino_1_1_controller_1_1_timer_controller.html#a3d8a421cec3001ce8e810ccd2e4709b3',1,'GBTemplates::Domino::Controller::TimerController']]]
 ];

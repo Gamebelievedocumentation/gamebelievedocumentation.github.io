@@ -1,24 +1,4 @@
 var searchData=
 [
-  ['iboneyardview_0',['IBoneyardView',['../interface_g_b_templates_1_1_domino_1_1_i_boneyard_view.html',1,'GBTemplates::Domino']]],
-  ['icameracontroller_1',['ICameraController',['../interface_g_b_templates_1_1_domino_1_1_i_camera_controller.html',1,'GBTemplates::Domino']]],
-  ['idominocontroller_2',['IDominoController',['../interface_g_b_templates_1_1_domino_1_1_i_domino_controller.html',1,'GBTemplates::Domino']]],
-  ['idominotileview_3',['IDominoTileView',['../interface_g_b_templates_1_1_domino_1_1_i_domino_tile_view.html',1,'GBTemplates::Domino']]],
-  ['iiacontroller_4',['IIAController',['../interface_g_b_templates_1_1_domino_1_1_i_i_a_controller.html',1,'GBTemplates::Domino']]],
-  ['imovementassistant_5',['IMovementAssistant',['../interface_g_b_templates_1_1_domino_1_1_i_movement_assistant.html',1,'GBTemplates::Domino']]],
-  ['iplayer2viewinfo_6',['IPlayer2ViewInfo',['../interface_g_b_templates_1_1_domino_1_1_i_player2_view_info.html',1,'GBTemplates::Domino']]],
-  ['ipopup_7',['IPopup',['../interface_i_popup.html',1,'']]],
-  ['ipopuphandler_8',['IPopupHandler',['../interface_i_popup_handler.html',1,'']]],
-  ['ipreviewtileview_9',['IPreviewTileView',['../interface_g_b_templates_1_1_domino_1_1_i_preview_tile_view.html',1,'GBTemplates::Domino']]],
-  ['irepositiontile_10',['IRepositionTile',['../interface_g_b_templates_1_1_domino_1_1_i_reposition_tile.html',1,'GBTemplates::Domino']]],
-  ['iscoreview_11',['IScoreView',['../interface_g_b_templates_1_1_domino_1_1_i_score_view.html',1,'GBTemplates::Domino']]],
-  ['isoundcontroller_12',['ISoundController',['../interface_g_b_templates_1_1_domino_1_1_i_sound_controller.html',1,'GBTemplates::Domino']]],
-  ['itilecollection_13',['ITileCollection',['../interface_g_b_templates_1_1_domino_1_1_i_tile_collection.html',1,'GBTemplates::Domino']]],
-  ['itilerootworldhanlder_14',['ITileRootWorldHanlder',['../interface_g_b_templates_1_1_domino_1_1_i_tile_root_world_hanlder.html',1,'GBTemplates::Domino']]],
-  ['itileshadowui_15',['ITileShadowUI',['../class_g_b_templates_1_1_domino_1_1_i_tile_shadow_u_i.html',1,'GBTemplates::Domino']]],
-  ['itileshadowworld_16',['ITileShadowWorld',['../class_g_b_templates_1_1_domino_1_1_i_tile_shadow_world.html',1,'GBTemplates::Domino']]],
-  ['itilesuicollectionsview_17',['ITilesUICollectionsView',['../interface_g_b_templates_1_1_domino_1_1_i_tiles_u_i_collections_view.html',1,'GBTemplates::Domino']]],
-  ['itimer_18',['ITimer',['../interface_g_b_templates_1_1_domino_1_1_i_timer.html',1,'GBTemplates::Domino']]],
-  ['itimwerview_19',['ITimwerView',['../interface_g_b_templates_1_1_domino_1_1_i_timwer_view.html',1,'GBTemplates::Domino']]],
-  ['iturncontrollerview_20',['ITurnControllerView',['../interface_g_b_templates_1_1_domino_1_1_i_turn_controller_view.html',1,'GBTemplates::Domino']]]
+  ['iiacontroller_0',['IIAController',['../interface_g_b_templates_1_1_domino_1_1_controller_1_1_i_i_a_controller.html',1,'GBTemplates::Domino::Controller']]]
 ];
